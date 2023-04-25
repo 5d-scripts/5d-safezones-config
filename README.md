@@ -25,4 +25,4 @@ AddEventHandler("5d-safezones:enter", function(currentSafezone)
         -- Expand on existing config entries. 
     end
 end)
-```lua
+```
